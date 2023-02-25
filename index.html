@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Prisoners Dilemma</title>
+
+    <!-- CSS File -->
+    <link href="assets/style.css" rel="stylesheet">
+
+    <!-- Tailwind-->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <!--jQuery and scripts-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    
+    <script src="./assets/script.js"></script>
+
+</head>
+<body class="h-[100vh] w-[100vw]">
+
+    <header class="fixed w-[100%] bg-white">
+        <nav class="px-6 py-4">
+            <div id="nav-h-container" class="flex flex-row items-center justify-between">
+                <div>
+                    <a href="#" class="text-2xl text-gray-800">PsD</a>
+                </div>
+                <div class="hidden sm:block">
+                    <a class="pr-5" href="">Project</a>
+                    <a class="px-5" href="">Datasets</a>
+                    <a class="px-5" href="">Visualizations</a>
+                    <a class="pl-5" href="">About</a>
+                </div>
+                <button id="mobile-menu-btn" class="sm:hidden">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+                    </svg>      
+                </button>
+            </div>
+            <div id="mobile-menu-dropdown" class="w-[100%] hidden">
+                <div class="w-[100%] flex flex-col items-end bg-white rounded-md">
+                    <a class="pt-4 pb-2" href="">Project</a>
+                    <a class="py-2" href="">Datasets</a>
+                    <a class="py-2" href="">Visualizations</a>
+                    <a class="pt-2" href="">About</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div id="site-banner" class="w-[100%] h-[100%] flex flex-row items-center px-[10%]">
+        <div id="banner-texts-container" class="w-[35%] flex flex-col justify-between">
+            <h1 class="text-7xl border-b-8 border-black pb-4">Prisoners</br>Dilemma</h1>
+            <p>A project for the Open Access and Digital Ethics course of the master's degree in Digital Humanities and Digital Knowledge of the university of Bologna.</p>
+            <a href="" class="w-fit underline">Discover more</a>
+        </div>
+        <div id="banner-image-container">
+
+        </div>
+
+    </div>
+
+
+
+    
+
+</body>
+</html>
