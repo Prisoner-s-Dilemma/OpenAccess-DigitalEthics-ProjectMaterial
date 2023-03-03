@@ -8,17 +8,17 @@ Sections –
   - Aim
   - Project Sustainability Statement
   
- - Dataset
+- Dataset
   - Raw dataset links(_of provence_)
   - Cleaned datasets description & Jupyter for script
   - Mashup datasets & Jupyter for script
   - Metadata
     - About catalogue
     - About mashup-datasets
- - Visualisation 
+- Visualisation 
   - plts
   - Interpretation 
   - Conculsions and thoughts
- - About Team 
+- About Team 
     
   
