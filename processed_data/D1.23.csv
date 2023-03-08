@@ -1,0 +1,44 @@
+Iso3_code;Country;Region;Subregion;Indicator;Category;Unit of measurement;Source;2010;2011;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021
+ALB;Albania;Europe;Southern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;:;:;:;4;3;2;1;6;1;2;5;:
+AND;Andorra;Europe;Southern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;0;0;1;0;0;0;:;1;:;:;:;:
+AUT;Austria;Europe;Western Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;:;:;:;:;:;6;10;11;12;9;8;:
+BEL;Belgium;Europe;Western Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;:;:;:;:;18;16;:;13;16;12;15;:
+BGR;Bulgaria;Europe;Eastern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;6;4;6;4;0;7;3;5;3;3;1;:
+BIH;Bosnia and Herzegovina;Europe;Southern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS/SDG;:;:;:;:;:;1;1;:;:;:;2;:
+BLR;Belarus;Europe;Eastern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;:;:;4;2;3;:;:;:;:;:;:;:
+CHE;Switzerland;Europe;Western Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;6;6;9;2;9;10;5;7;6;8;2;:
+CZE;Czechia;Europe;Eastern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;11;9;15;7;13;13;14;10;14;11;16;:
+DEU;Germany;Europe;Western Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;:;:;:;:;60;66;76;82;:;:;:;:
+DNK;Denmark;Europe;Northern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;2;5;4;3;2;2;8;4;5;9;4;:
+ESP;Spain;Europe;Southern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS/SDG;:;:;:;:;27;23;23;27;33;43;51;35
+EST;Estonia;Europe;Northern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;:;:;:;2;1;:;:;1;4;4;3;:
+FIN;Finland;Europe;Northern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;4;6;2;2;2;2;2;2;2;1;4;:
+FRA;France;Europe;Western Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;:;:;:;111;110;126;125;88;103;128;119;:
+GBR_EW;United Kingdom (England and Wales);Europe;Northern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;58;57;60;76;89;90;123;70;92;:;:;:
+GBR_S;United Kingdom (Scotland);Europe;Northern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS/SDG;:;:;6;5;3;:;12;13;6;:;:;:
+GRC;Greece;Europe;Southern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;:;:;:;:;:;4;6;0;9;:;6;:
+HRV;Croatia;Europe;Southern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;1;2;:;:;0;1;0;0;0;1;0;:
+HUN;Hungary;Europe;Eastern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;7;9;8;:;:;:;9;4;6;6;5;:
+IRL;Ireland;Europe;Northern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;3;0;1;:;:;:;:;:;:;:;:;:
+ISL;Iceland;Europe;Northern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;:;:;:;1;0;0;0;1;1;1;:;:
+ITA;Italy;Europe;Southern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS/SDG;55;63;56;42;43;39;39;48;61;53;61;:
+KOS;Kosovo under UNSCR 1244;Europe;Southern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;:;:;:;:;:;:;1;:;1;:;3;:
+LIE;Liechtenstein;Europe;Western Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;0;0;0;0;0;1;0;0;0;:;0;:
+LTU;Lithuania;Europe;Northern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;8;11;5;12;11;8;14;5;4;7;7;:
+LUX;Luxembourg;Europe;Western Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;:;:;:;:;:;:;0;0;0;:;:;:
+LVA;Latvia;Europe;Northern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;3;8;11;3;5;3;4;3;2;3;7;:
+MCO;Monaco;Europe;Western Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;0;0;0;:;0;0;0;:;:;:;:;:
+MDA;Republic of Moldova;Europe;Eastern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;:;:;1;:;:;5;6;3;6;:;:;:
+MLT;Malta;Europe;Southern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;:;:;:;:;0;0;:;0;0;2;1;:
+MNE;Montenegro;Europe;Southern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;:;:;:;:;:;:;0;:;0;:;0;:
+NLD;Netherlands;Europe;Western Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;21;17;10;8;16;12;6;14;13;12;13;:
+NOR;Norway;Europe;Northern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;2;4;5;11;6;2;5;3;1;6;2;:
+POL;Poland;Europe;Eastern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;34;22;18;19;26;23;24;:;26;24;27;:
+PRT;Portugal;Europe;Southern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;19;8;16;13;22;11;9;15;11;11;21;:
+ROU;Romania;Europe;Eastern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;9;9;22;18;13;11;11;9;11;7;14;:
+RUS;Russian Federation;Europe;Eastern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;476;443;474;410;404;392;351;307;281;274;287;:
+SRB;Serbia;Europe;Southern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;6;4;7;6;2;10;8;9;0;5;8;:
+SVK;Slovakia;Europe;Eastern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;8;7;6;4;6;4;6;10;5;:;4;:
+SVN;Slovenia;Europe;Southern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;1;2;:;:;0;3;3;1;0;0;1;:
+SWE;Sweden;Europe;Northern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;3;7;7;6;7;3;1;1;2;2;2;:
+VAT;Holy See;Europe;Southern Europe;Mortality in prison;Deaths due to external causes: by suicide;Counts;CTS;:;:;0;0;0;0;:;:;:;:;:;:

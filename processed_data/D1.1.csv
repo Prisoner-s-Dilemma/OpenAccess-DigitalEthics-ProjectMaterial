@@ -1,0 +1,45 @@
+Iso3_code;Country;Region;Subregion;Indicator;Category;Unit of measurement;Source;2010;2011;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021
+ALB;Albania;Europe;Southern Europe;Mortality in prison;Total;Counts;CTS;:;:;:;13;12;11;17;23;24;27;26;:
+AND;Andorra;Europe;Southern Europe;Mortality in prison;Total;Counts;CTS;0;0;1;0;0;0;1;1;:;:;:;:
+AUT;Austria;Europe;Western Europe;Mortality in prison;Total;Counts;CTS;35;37;33;39;23;34;40;33;44;38;29;:
+BEL;Belgium;Europe;Western Europe;Mortality in prison;Total;Counts;CTS;:;:;:;:;59;44;:;44;42;39;48;:
+BGR;Bulgaria;Europe;Eastern Europe;Mortality in prison;Total;Counts;CTS;46;50;52;32;28;43;48;36;32;49;52;:
+BIH;Bosnia and Herzegovina;Europe;Southern Europe;Mortality in prison;Total;Counts;CTS/SDG;:;:;:;:;:;8;8;:;:;:;23;:
+BLR;Belarus;Europe;Eastern Europe;Mortality in prison;Total;Counts;CTS;:;:;109;87;96;:;:;:;:;:;:;:
+CHE;Switzerland;Europe;Western Europe;Mortality in prison;Total;Counts;CTS;12;10;29;10;15;24;17;18;12;18;9;:
+CZE;Czechia;Europe;Eastern Europe;Mortality in prison;Total;Counts;CTS;35;31;38;26;31;43;43;37;41;43;40;:
+DEU;Germany;Europe;Western Europe;Mortality in prison;Total;Counts;CTS;:;:;:;:;152;146;163;173;:;:;:;:
+DNK;Denmark;Europe;Northern Europe;Mortality in prison;Total;Counts;CTS;11;13;5;8;4;4;12;9;8;12;4;:
+ESP;Spain;Europe;Southern Europe;Mortality in prison;Total;Counts;CTS/SDG;:;:;:;:;153;157;156;147;210;194;204;185
+EST;Estonia;Europe;Northern Europe;Mortality in prison;Total;Counts;CTS;6;9;5;5;8;4;2;5;8;15;14;:
+FIN;Finland;Europe;Northern Europe;Mortality in prison;Total;Counts;CTS;6;8;4;5;9;3;4;2;6;5;8;:
+FRA;France;Europe;Western Europe;Mortality in prison;Total;Counts;CTS;:;:;:;242;219;259;266;153;287;240;255;:
+GBR_EW;United Kingdom (England and Wales);Europe;Northern Europe;Mortality in prison;Total;Counts;CTS;197;192;192;215;243;257;354;295;325;:;:;:
+GBR_NI;United Kingdom (Northern Ireland);Europe;Northern Europe;Mortality in prison;Total;Counts;CTS;0;0;7;3;1;2;5;:;5;4;2;:
+GBR_S;United Kingdom (Scotland);Europe;Northern Europe;Mortality in prison;Total;Counts;CTS/SDG;:;:;21;24;24;24;28;29;32;37;34;:
+GRC;Greece;Europe;Southern Europe;Mortality in prison;Total;Counts;CTS;:;:;:;39;:;60;46;37;69;:;69;:
+HRV;Croatia;Europe;Southern Europe;Mortality in prison;Total;Counts;CTS;12;13;13;:;16;11;11;14;18;26;9;:
+HUN;Hungary;Europe;Eastern Europe;Mortality in prison;Total;Counts;CTS;51;40;54;:;:;:;64;75;71;65;71;:
+IRL;Ireland;Europe;Northern Europe;Mortality in prison;Total;Counts;CTS;11;6;5;10;9;:;:;:;:;:;:;:
+ISL;Iceland;Europe;Northern Europe;Mortality in prison;Total;Counts;CTS;:;:;:;2;0;0;0;1;1;2;0;:
+ITA;Italy;Europe;Southern Europe;Mortality in prison;Total;Counts;CTS/SDG;163;165;153;154;94;108;103;126;161;143;184;:
+KOS;Kosovo under UNSCR 1244;Europe;Southern Europe;Mortality in prison;Total;Counts;CTS;:;:;:;:;:;:;4;5;3;:;9;:
+LIE;Liechtenstein;Europe;Western Europe;Mortality in prison;Total;Counts;CTS;0;0;0;0;0;1;0;0;0;:;0;:
+LTU;Lithuania;Europe;Northern Europe;Mortality in prison;Total;Counts;CTS;25;32;35;48;43;39;38;33;30;24;25;:
+LUX;Luxembourg;Europe;Western Europe;Mortality in prison;Total;Counts;CTS;:;:;:;:;:;:;2;2;2;:;:;:
+LVA;Latvia;Europe;Northern Europe;Mortality in prison;Total;Counts;CTS;20;27;30;15;28;17;17;12;24;17;33;:
+MCO;Monaco;Europe;Western Europe;Mortality in prison;Total;Counts;CTS;0;0;0;:;0;0;0;:;:;:;:;:
+MDA;Republic of Moldova;Europe;Eastern Europe;Mortality in prison;Total;Counts;CTS;:;:;29;27;47;49;54;42;28;:;:;:
+MLT;Malta;Europe;Southern Europe;Mortality in prison;Total;Counts;CTS;1;1;1;:;:;2;:;1;3;6;5;:
+MNE;Montenegro;Europe;Southern Europe;Mortality in prison;Total;Counts;CTS;:;:;:;:;8;:;6;:;3;:;2;:
+NLD;Netherlands;Europe;Western Europe;Mortality in prison;Total;Counts;CTS;:;:;25;25;39;47;30;46;41;32;41;:
+NOR;Norway;Europe;Northern Europe;Mortality in prison;Total;Counts;CTS;3;6;6;12;6;5;6;5;4;8;2;:
+POL;Poland;Europe;Eastern Europe;Mortality in prison;Total;Counts;CTS;135;127;107;109;107;105;123;:;170;159;174;:
+PRT;Portugal;Europe;Southern Europe;Mortality in prison;Total;Counts;CTS;64;64;66;62;73;67;68;69;54;64;75;:
+ROU;Romania;Europe;Eastern Europe;Mortality in prison;Total;Counts;CTS;77;88;115;102;122;113;98;91;103;70;107;:
+RUS;Russian Federation;Europe;Eastern Europe;Mortality in prison;Total;Counts;CTS;4775;4402;4124;4197;4097;3828;3408;3071;2729;2442;2400;:
+SRB;Serbia;Europe;Southern Europe;Mortality in prison;Total;Counts;CTS;69;63;90;69;37;61;48;55;56;63;83;:
+SVK;Slovakia;Europe;Eastern Europe;Mortality in prison;Total;Counts;CTS;16;15;23;12;18;18;30;29;17;:;30;:
+SVN;Slovenia;Europe;Southern Europe;Mortality in prison;Total;Counts;CTS;5;4;:;:;6;3;5;4;2;2;5;:
+SWE;Sweden;Europe;Northern Europe;Mortality in prison;Total;Counts;CTS;14;14;16;13;16;8;8;8;14;8;6;:
+VAT;Holy See;Europe;Southern Europe;Mortality in prison;Total;Counts;CTS;:;:;0;0;0;0;:;:;:;:;:;:
