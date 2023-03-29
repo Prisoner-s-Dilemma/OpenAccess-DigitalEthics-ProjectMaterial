@@ -1,5 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
+    
 }
 
 .roboto-condensed {
@@ -23,12 +24,12 @@ body {
     animation: banner-btn 2s ease-in-out 1 forwards;
 }
 
-#banner-grid-text-block {
-    animation: banner-grid-text-block 2s ease-in-out 1 forwards;
+#banner-text-block {
+    animation: banner-text-block 2s ease-in-out 1 forwards;
 }
 
 
-@keyframes banner-grid-text-block {
+@keyframes banner-text-block {
     from {
         transform: translateX(-1500px);
         opacity: 0;
