@@ -6,6 +6,10 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <title>Prisoners Dilemma</title>
 
+    <!-- Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
     <!-- CSS File -->
     <link href="assets/style.css" rel="stylesheet">
 
@@ -20,7 +24,7 @@
 </head>
 <body class="h-[100vh] w-[100vw]">
 
-    <header class="fixed w-[100%] border-b-2 border-[#161616]">
+    <header class="fixed w-[100%]  z-10 backdrop-blur-3xl">
         <nav class="px-6 py-4 h-[60px]">
             <div id="nav-h-container" class="flex flex-row items-center justify-between">
                 <div>
@@ -49,37 +53,44 @@
         </nav>
     </header>
 
+
+
+    <!--HERO SECTION-->
     <div id="site-banner" class="w-[100%] h-[100vh] bg-[#CCC8BC] flex flex-row items-center overflow-hidden">
-        <div id="banner-left" class="w-1/2 pl-[10%]">
-            <div class="flex flex-col space-y-24">
-                <div id="banner-text-container" class="flex flex-col space-y-4">
-                    <h1 id="title" class="text-9xl font-semibold tracking-tight">Prisoners'</br>Dilemma</h1>
-                    <div id="banner-grid-text-block" class="flex flex-col w-3/5 space-y-8">
-                        <p>
-                            Discover if and how life conditions in prison, governments expenditures in prisons and law sector, and corruption and perception of the justice system affect prisoners’ choice to commit suicide among different European countries.
+        <div id="banner-left" class="w-1/2 pl-[10%] pt-[80px] pb-[5px]">
+            <div class="flex flex-col space-y-8">
+                <div id="banner-text-container" class="flex flex-col space-y-1">
+                    <h1 id="title" class="roboto-condensed text-8xl font-semibold tracking-[-0.03em]">Prisoners'</br><span class="">Dilemma</span></h1>
+                    <div id="banner-grid-text-block" class="flex flex-col space-y-2">
+                        <p class="font-light">
+                            Life conditions, governments expenditures, corruption and perception of the justice system affect prisoners’ choice to commit suicide among different European countries.
                         </p>
-                        <div class="flex flex-row space-x-8">
-                            <p class="w-1/2">
-                                A project for the Open Access and Digital Ethics course of the University of Bologna.
-                            </p>
-                            <p class="w-1/2">
-                                Master's degree in Digital Humanities and Digital Knowledge.
-                            </p>
-                        </div>
+                     
                     </div>
                 </div>
-                <button id="banner-btn" class=" box-border w-[fit-content] px-10 py-[calc(0.75rem+4px)] border-l-4 border-r-4 border-[#E95122] font-semibold hover:px-[calc(2.5rem+4px)] hover:py-3 hover:border-l-0 hover:border-r-0 hover:border-t-4 hover:border-b-4 transition-all ease-out">
-                    Explore the project
+                <button id="banner-btn" class="roboto-condensed font-medium box-border w-[fit-content] px-5 py-3 border-l-4 border-r-4 border-[#E95122] hover:bg-[#E95122] transition-all ease-out duration-[400ms]">
+                    Discover how
                 </button>
             </div>
         </div>
-        <div id="banner-right" class="flex flex-row h-[100%] w-1/2 pt-[70px] pb-[10px] justify-end space-x-10 pr-[20px]">
+        <div id="banner-right" class="flex flex-row h-[100%] w-1/2 pt-[80px] pb-[5px] justify-end space-x-10 pr-[20px]">
                 <img id="prisoner-illustration" class="h-[100%] object-cover " src="./assets/imgs/Prisoner_illustration2.svg">
                 <img id="timeline" class="h-[100%] object-cover" src="./assets/imgs/timeline2.svg">
 
         </div>
         </div>
     </div>
+
+    <main class="mx-[10%] pt-[10%]">
+        <div class="flex flex-row space-x-8">
+            <p class="w-1/2 font-light">
+                A data-driven project for the Open Access and Digital Ethics course of the University of Bologna.
+            </p>
+            <p class="w-1/2 font-light">
+                Master's degree in Digital Humanities and Digital Knowledge.
+            </p>
+        </div>
+    </main>
 
 
 
