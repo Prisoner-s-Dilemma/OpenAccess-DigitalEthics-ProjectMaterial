@@ -22,7 +22,7 @@
     <script src="./assets/script.js"></script>
 
 </head>
-<body class="h-[100vh] w-[100vw] bg-[#161616] text-[#161616]">
+<body class="h-[100vh] w-[100vw] text-[#161616]">
 
     <header class="fixed w-[100%] z-10 bg-white/30 backdrop-blur-3xl">
         <nav class="px-6 py-4 h-[60px]">
@@ -56,10 +56,10 @@
 
 
     <!--HERO SECTION-->
-    <div id="site-banner" class="w-[100%] h-[100vh] pt-[80px] pb-[5px] bg-[#CCC8BC] flex flex-col md:flex-row  items-center overflow-hidden space-y-10 md:space-y-0">
-        <div id="banner-left" class="w-[90%] md:w-1/2 md:pl-[10%] md:pb-[5%]">
+    <div id="site-banner" class="w-[100%] h-[100vh] pt-[60px] md:pt-[80px] pb-[5px] bg-[#CCC8BC] flex flex-col md:flex-row  items-center overflow-hidden space-y-10 md:space-y-0">
+        <div id="banner-left" class="w-[90%] md:w-1/2 md:pl-[10%] md:pb-[5%] mt-[8%] md:mt-0">
             <div class="flex flex-col space-y-4">
-                <div id="banner-text-container" class="flex flex-col space-y-1">
+                <div id="banner-text-container" class="flex flex-col space-y-2 md:space-y-1">
                     <h1 id="title" class="roboto-condensed text-center md:text-left text-4xl sm:text-6xl md:text-7xl lg:text-8xl font-semibold tracking-[-0.03em]">Prisoners'</br>Dilemma</span></h1>
                     <p id="banner-text-block" class="font-light text-center md:text-left pl-[0.5px] text-sm sm:text-base lg:text-lg">
                         Life conditions, governments expenditures, corruption and perception of the justice system affect prisoners’ choice to commit suicide among different European countries.
@@ -73,17 +73,15 @@
             </div>
         </div>
 
-        <div id="banner-right" class="w-[90%] flex flex-row md:h-[100%] md:w-1/2 md:justify-end lg:space-x-10 lg:pr-[20px]">
-                <img id="prisoner-illustration" class="h-[100%] object-cover" src="./assets/imgs/prisoner_illustration2.svg">
+        <div id="banner-right" class="w-[70%] flex flex-row md:h-[100%] md:w-1/2 md:justify-end lg:space-x-8 lg:pr-[8px] overflow-visible">
+                <img id="prisoner-illustration" class="md:object-cover object-contain object-left-top" src="./assets/imgs/prisoner_illustration2.svg">
                 <img id="timeline" class="hidden lg:block lg:h-[100%] md:object-cover" src="./assets/imgs/timeline2.svg">
-
         </div>
         </div>
     </div>
 
-    <main>
-        <img src="./assets/imgs/squares.svg">
-        <div class="mx-[10%] pt-[10%]">
+    <main class="bg-gradient-to-b from-[#CCC8BC] to-white">
+        <div class="mx-[10%] pt-[10%] ">
             <div class="flex flex-row space-x-8">
                 <p class="w-1/2 font-light text-white">
                     A data-driven project for the Open Access and Digital Ethics course of the University of Bologna.
